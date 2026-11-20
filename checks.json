@@ -1,0 +1,3 @@
+[
+  {"args": ["mcp_listchange_audit.py", "examples/stale.jsonl", "--pretty"], "exit": 1}
+]

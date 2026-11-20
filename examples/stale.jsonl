@@ -1,0 +1,3 @@
+{"jsonrpc":"2.0","method":"notifications/tools/list_changed"}
+{"jsonrpc":"2.0","id":8,"method":"tools/call","params":{"name":"new_tool","arguments":{}}}
+{"jsonrpc":"2.0","id":9,"method":"tools/list","params":{}}
